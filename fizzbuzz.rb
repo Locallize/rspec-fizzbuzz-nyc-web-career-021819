@@ -10,4 +10,5 @@ def fizzbuzz(n)
   "fizzbuzz"
   else
     nil
+  end
 end
